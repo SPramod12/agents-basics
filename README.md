@@ -10,6 +10,8 @@ This agent implements a **function-calling loop** where:
 3. Tools are executed and results are fed back to the LLM as context
 4. The loop continues until a final answer is reached or max steps are exceeded
 
+<img width="1207" height="1303" alt="Agent Flow" src="https://github.com/user-attachments/assets/e2e04dcf-fd9d-4ab8-b318-1f94a7a840b2" />
+
 ## Key Features
 
 - **Framework-Free**: Pure Python implementation with minimal dependencies
