@@ -10,6 +10,8 @@ This agent implements a **function-calling loop** where:
 3. Tools are executed and results are fed back to the LLM as context
 4. The loop continues until a final answer is reached or max steps are exceeded
 
+<img width="1207" height="1303" alt="ChatGPT Image Apr 17, 2026, 06_09_58 PM (2)" src="https://github.com/user-attachments/assets/29b9cb9a-2f64-4e4a-89c4-8cf54f7ab52a" />
+
 ## Key Features
 
 - **Framework-Free**: Pure Python implementation with minimal dependencies
